@@ -1,4 +1,5 @@
 # set으로 만들어서 비교하기.
+# https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV18_yw6I9MCFAZN&
 
 T = int(input())
  
