@@ -1,3 +1,5 @@
+# https://swexpertacademy.com/main/code/problem/problemDetail.do
+
 T = int(input())
 prime = [2,3,5,7,11]
 
